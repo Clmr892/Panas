@@ -484,6 +484,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:firecracker_chaparral": "2024-12-23 20:21:36 +0000",
       "biomeswevegone:prairie": "2024-12-23 19:25:26 +0000"
     },
     "done": false
