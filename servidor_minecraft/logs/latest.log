@@ -6880,3 +6880,43 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 16:30:21.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tamos dentro de la cosa esa bajemos mejor
 [23Dec2024 16:30:23.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=220, z=-2} BlockPos{x=10, y=219, z=-5}
 [23Dec2024 16:30:31.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> bichos feos
+[23Dec2024 16:31:05.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=220, z=-2} BlockPos{x=15, y=69, z=-5}
+[23Dec2024 16:31:05.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=220, z=-2} BlockPos{x=15, y=68, z=-4}
+[23Dec2024 16:31:06.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=220, z=-2} BlockPos{x=16, y=68, z=-5}
+[23Dec2024 16:31:06.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=220, z=-2} BlockPos{x=16, y=68, z=-5}
+[23Dec2024 16:31:08.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=69, z=-4} BlockPos{x=15, y=69, z=-5}
+[23Dec2024 16:31:08.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=69, z=-4} BlockPos{x=15, y=69, z=-5}
+[23Dec2024 16:31:08.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=69, z=-4} BlockPos{x=15, y=69, z=-5}
+[23Dec2024 16:31:15.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hola viktor
+[23Dec2024 16:31:19.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=69, z=-4} BlockPos{x=2, y=68, z=-1}
+[23Dec2024 16:31:33.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a si es cierto
+[23Dec2024 16:31:43.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tengo que quitar eso vamonos lejos mejor
+[23Dec2024 16:32:01.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por que te agachas
+[23Dec2024 16:32:32.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es lo mismo por que depende de cuantas maderas tenga mas tendras que talar
+[23Dec2024 16:32:55.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> perate dejame conseguir madera
+[23Dec2024 16:33:25.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> bastantes
+[23Dec2024 16:33:29.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[23Dec2024 16:34:53.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
+[23Dec2024 16:34:53.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[23Dec2024 16:34:57.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:39535] logged in with entity id 2665 at (28.266794307603195, 68.0, -101.96842171019979)
+[23Dec2024 16:34:57.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[23Dec2024 16:35:23.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asierito01OwO lost connection: Timed out
+[23Dec2024 16:35:23.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO left the game
+[23Dec2024 16:36:24.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asierito01OwO[/127.98.50.198:54527] logged in with entity id 2843 at (35.31065726017576, 69.0, -101.81315471348873)
+[23Dec2024 16:36:24.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO joined the game
+[23Dec2024 16:36:41.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Stone Age]
+[23Dec2024 16:36:49.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> estoo aca
+[23Dec2024 16:36:50.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ciego
+[23Dec2024 16:37:02.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Getting an Upgrade]
+[23Dec2024 16:37:42.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has made the advancement [Stone Age]
+[23Dec2024 16:38:17.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has made the advancement [Getting an Upgrade]
+[23Dec2024 16:38:33.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has made the advancement [Sweet Dreams]
+[23Dec2024 16:39:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier nos van a violar
+[23Dec2024 16:39:31.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
+[23Dec2024 16:39:43.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Survival Mode]
+[23Dec2024 16:40:07.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Zombie
+[23Dec2024 16:40:13.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Monster Hunter]
+[23Dec2024 16:40:17.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Asierito01OwO to Calamar892]
+[23Dec2024 16:40:20.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Sweet Dreams]
+[23Dec2024 16:40:34.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has made the advancement [Monster Hunter]
+[23Dec2024 16:40:34.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo que puto quita

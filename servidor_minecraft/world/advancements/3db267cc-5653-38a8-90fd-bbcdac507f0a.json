@@ -348,5 +348,29 @@
     },
     "done": false
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-23 16:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-23 16:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-23 16:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-23 16:37:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
