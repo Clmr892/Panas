@@ -7082,3 +7082,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 17:41:03.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asiwe
 [23Dec2024 17:41:05.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier
 [23Dec2024 17:41:15.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay minimapa pero se tiene que craftear
+[23Dec2024 17:42:10.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay tumba
+[23Dec2024 17:42:39.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Who You Gonna Call?]
+[23Dec2024 17:43:51.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was slain by Ghost
+[23Dec2024 17:43:52.152] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 17:43:52.153] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[23Dec2024 17:43:52.153] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[23Dec2024 17:43:52.154] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 17:43:52.154] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Dec2024 17:44:00.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo que corre ese mierdas
+[23Dec2024 17:45:35.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier
+[23Dec2024 17:45:44.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay vida aqui pero no se que son
+[23Dec2024 17:45:49.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y no me quiero acercar
+[23Dec2024 17:45:55.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esta muy nublado
+[23Dec2024 17:46:13.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> parecen los pajaro
+[23Dec2024 17:46:34.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a mimir
+[23Dec2024 17:46:36.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ñañaret
+[23Dec2024 17:46:46.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ya veo mejor
+[23Dec2024 17:46:51.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es como una tribu
+[23Dec2024 17:47:10.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ASIER
+[23Dec2024 17:47:16.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier
+[23Dec2024 17:47:21.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el sunbird
+[23Dec2024 17:47:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier
+[23Dec2024 17:48:11.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier
+[23Dec2024 17:48:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mierda
+[23Dec2024 17:48:17.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el sunbird
+[23Dec2024 17:48:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> shi
+[23Dec2024 17:48:35.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si me violan
+[23Dec2024 17:48:48.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay como 5 en grupito
+[23Dec2024 17:49:14.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Masquerade]
+[23Dec2024 17:49:23.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tengo 1
+[23Dec2024 17:49:31.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier hazte minimapas para los dos
+[23Dec2024 17:49:33.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mejor
+[23Dec2024 17:49:39.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> se llaman atlas
+[23Dec2024 17:50:29.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was slain by Umvuthana
+[23Dec2024 17:50:29.419] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 17:50:29.419] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[23Dec2024 17:50:29.420] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[23Dec2024 17:50:29.420] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 17:50:29.420] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Dec2024 17:50:32.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> casi
+[23Dec2024 17:50:36.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> un mascara
