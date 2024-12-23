@@ -418,6 +418,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-23 18:29:50 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-23 17:10:25 +0000"
