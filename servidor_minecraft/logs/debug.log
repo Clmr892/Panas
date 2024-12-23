@@ -18566,3 +18566,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 18:08:10.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 18:08:10.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 18:11:04.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[23Dec2024 18:12:54.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> para que esto?
+[23Dec2024 18:13:10.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:13:10.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:14:59.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
+[23Dec2024 18:14:59.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[23Dec2024 18:16:40.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was blown up by Creeper
+[23Dec2024 18:16:42.198] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
+[23Dec2024 18:18:10.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:18:10.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:19:00.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[23Dec2024 18:19:15.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Asierito01OwO: pou
