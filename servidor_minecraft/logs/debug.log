@@ -18890,3 +18890,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 19:01:46.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Ferrous Wroughtnaut
 [23Dec2024 19:01:47.968] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
 [23Dec2024 19:01:50.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que buena asier
+[23Dec2024 19:02:28.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Ferrous Wroughtnaut
+[23Dec2024 19:02:29.482] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
+[23Dec2024 19:02:33.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> manos que?
+[23Dec2024 19:03:29.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:03:29.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:03:35.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was slain by Ferrous Wroughtnaut
+[23Dec2024 19:03:37.072] [Server thread/DEBUG] [twilightforest/]: Player Calamar892 (3db267cc-5653-38a8-90fd-bbcdac507f0a) respawned and received items held in storage
+[23Dec2024 19:03:57.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has completed the challenge [Just a Flesh Wound]
+[23Dec2024 19:04:04.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> como le quitas tanto?
+[23Dec2024 19:07:42.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ño
+[23Dec2024 19:07:56.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier si sabes que te dice el daño no?
+[23Dec2024 19:08:10.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> inutil en la descripcion del arma
+[23Dec2024 19:08:29.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:08:29.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:08:31.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was slain by Asierito01OwO
+[23Dec2024 19:08:32.653] [Server thread/DEBUG] [twilightforest/]: Player Calamar892 (3db267cc-5653-38a8-90fd-bbcdac507f0a) respawned and received items held in storage
+[23Dec2024 19:08:50.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Calamar892
+[23Dec2024 19:08:51.633] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
+[23Dec2024 19:09:15.294] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=498, y=4, z=-127}
+[23Dec2024 19:09:19.602] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=74, y=63, z=-4}
+[23Dec2024 19:09:27.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier
+[23Dec2024 19:09:30.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> go boss
+[23Dec2024 19:09:31.796] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=498, y=4, z=-127}
+[23Dec2024 19:09:33.024] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=499, y=4, z=-126}
+[23Dec2024 19:09:38.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[23Dec2024 19:09:38.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[23Dec2024 19:09:51.948] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=74, y=63, z=-4}
