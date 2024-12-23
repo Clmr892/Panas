@@ -421,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2024-12-23 17:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-23 17:10:25 +0000"
@@ -429,7 +435,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "cabbage": "2024-12-23 17:19:26 +0000"
+      "cabbage": "2024-12-23 17:19:26 +0000",
+      "beetroot": "2024-12-23 17:34:58 +0000"
     },
     "done": false
   },

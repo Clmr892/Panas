@@ -387,6 +387,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-23 17:37:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2024-12-23 16:50:15 +0000"
@@ -415,6 +421,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-23 17:15:21 +0000",
       "minecraft:skeleton": "2024-12-23 16:51:20 +0000",
+      "minecraft:magma_cube": "2024-12-23 17:28:09 +0000",
       "minecraft:zombie": "2024-12-23 16:40:13 +0000"
     },
     "done": false
@@ -422,6 +429,24 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-12-23 16:40:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-23 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-23 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-23 17:28:47 +0000"
     },
     "done": true
   },
