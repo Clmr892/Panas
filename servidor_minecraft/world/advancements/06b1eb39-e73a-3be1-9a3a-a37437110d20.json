@@ -367,6 +367,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-23 20:54:05 +0000",
       "minecraft:spider": "2024-12-23 17:58:52 +0000",
       "minecraft:zombie": "2024-12-23 16:40:34 +0000"
     },
@@ -435,8 +436,12 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-12-23 17:19:26 +0000",
+      "onion": "2024-12-23 20:49:09 +0000",
+      "tomato": "2024-12-23 20:50:54 +0000",
       "beetroot": "2024-12-23 17:34:58 +0000",
-      "potato": "2024-12-23 18:00:27 +0000"
+      "potato": "2024-12-23 18:00:27 +0000",
+      "wheat": "2024-12-23 20:50:11 +0000",
+      "carrot": "2024-12-23 20:50:14 +0000"
     },
     "done": false
   },
@@ -543,6 +548,18 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2024-12-23 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-23 20:54:11 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_pepper_seeds": {
+    "criteria": {
+      "obtain_pepper_seeds_0": "2024-12-23 20:48:36 +0000"
     },
     "done": true
   },
