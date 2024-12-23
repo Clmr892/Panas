@@ -369,6 +369,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2024-12-23 17:49:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-23 17:05:58 +0000"
