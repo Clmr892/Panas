@@ -374,6 +374,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-12-23 16:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-23 16:40:20 +0000"
@@ -388,6 +394,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-23 16:51:20 +0000",
       "minecraft:zombie": "2024-12-23 16:40:13 +0000"
     },
     "done": false

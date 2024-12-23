@@ -18249,3 +18249,49 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 16:48:53.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y no es poquito lo que se necesita
 [23Dec2024 16:49:23.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si estamos al lado del spawn para que le vamos a poner waypoint
 [23Dec2024 16:50:15.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Crops of the Wild]
+[23Dec2024 16:51:14.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier ayudame suena musiquita epica alla abajo
+[23Dec2024 16:51:27.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> sisi
+[23Dec2024 16:52:21.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was shot by Skeleton
+[23Dec2024 16:52:22.982] [Server thread/DEBUG] [twilightforest/]: Player Calamar892 (3db267cc-5653-38a8-90fd-bbcdac507f0a) respawned and received items held in storage
+[23Dec2024 16:52:24.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier
+[23Dec2024 16:52:26.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el esqueleto
+[23Dec2024 16:52:36.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tiene mochila el esqueleto
+[23Dec2024 16:52:37.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> matalo
+[23Dec2024 16:52:54.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Zombie
+[23Dec2024 16:52:54.934] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 16:52:54.935] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[23Dec2024 16:52:54.936] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[23Dec2024 16:52:54.936] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 16:52:54.937] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Dec2024 16:52:56.066] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
+[23Dec2024 16:52:58.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:52:58.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:53:06.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Asierito01OwO to Calamar892]
+[23Dec2024 16:53:23.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> nah despawneo
+[23Dec2024 16:53:48.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to Asierito01OwO]
+[23Dec2024 16:54:14.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> papa
+[23Dec2024 16:55:14.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> 10
+[23Dec2024 16:55:24.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier vete
+[23Dec2024 16:55:53.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was caught by Necromancer's fangs
+[23Dec2024 16:55:54.935] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
+[23Dec2024 16:56:03.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Asierito01OwO to Calamar892]
+[23Dec2024 16:56:19.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ta fuerte el esqueleto
+[23Dec2024 16:56:36.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier la puta madre
+[23Dec2024 16:56:38.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay un boss aca
+[23Dec2024 16:57:04.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a que no? intenta a ver
+[23Dec2024 16:57:46.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier te va a fornicar con el buff que le dieron
+[23Dec2024 16:57:58.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:57:58.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:58:27.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> quiero ver si te folla
+[23Dec2024 16:58:34.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> adios asier
+[23Dec2024 16:58:51.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el daño
+[23Dec2024 16:58:58.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> intenta a ver
+[23Dec2024 16:59:19.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ay dos pillagers follando
+[23Dec2024 16:59:25.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier
+[23Dec2024 16:59:33.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> x
+[23Dec2024 16:59:34.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> d
+[23Dec2024 16:59:49.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero si me la hice yo
+[23Dec2024 16:59:58.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ah entonces yo el casco
+[23Dec2024 17:00:54.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asier quieres ir a la dungeon para que nos violen?
+[23Dec2024 17:00:59.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si tengo una papa
+[23Dec2024 17:01:12.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ño
