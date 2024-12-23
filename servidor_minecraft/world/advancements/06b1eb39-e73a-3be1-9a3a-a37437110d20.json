@@ -351,6 +351,18 @@
     },
     "done": true
   },
+  "minecraft_121_update:trial_chambers_start_advancement": {
+    "criteria": {
+      "trial_chambers_start_advancement": "2024-12-23 18:55:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2024-12-23 18:51:48 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2024-12-23 16:44:15 +0000"
@@ -439,6 +451,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-23 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-23 18:50:01 +0000"
     },
     "done": true
   },

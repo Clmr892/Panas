@@ -493,7 +493,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-12-23 18:30:17 +0000",
-      "beetroot": "2024-12-23 18:03:55 +0000"
+      "beetroot": "2024-12-23 18:03:55 +0000",
+      "potato": "2024-12-23 18:57:39 +0000"
     },
     "done": false
   },
@@ -503,9 +504,27 @@
     },
     "done": false
   },
+  "minecraft_121_update:trial_chambers_start_advancement": {
+    "criteria": {
+      "trial_chambers_start_advancement": "2024-12-23 18:55:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2024-12-23 18:53:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-23 18:40:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2024-12-23 18:48:36 +0000"
     },
     "done": true
   },
