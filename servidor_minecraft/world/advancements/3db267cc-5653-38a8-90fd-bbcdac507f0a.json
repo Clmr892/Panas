@@ -317,7 +317,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-20 20:22:17 +0000",
-      "minecraft:river": "2024-12-20 20:23:46 +0000"
+      "minecraft:river": "2024-12-20 20:23:46 +0000",
+      "minecraft:flower_forest": "2024-12-23 18:06:49 +0000"
     },
     "done": false
   },
@@ -440,6 +441,7 @@
       "minecraft:pillager": "2024-12-23 17:15:21 +0000",
       "minecraft:skeleton": "2024-12-23 16:51:20 +0000",
       "minecraft:magma_cube": "2024-12-23 17:28:09 +0000",
+      "minecraft:creeper": "2024-12-23 17:58:58 +0000",
       "minecraft:zombie": "2024-12-23 16:40:13 +0000"
     },
     "done": false
@@ -462,6 +464,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2024-12-23 18:03:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-12-23 17:42:39 +0000"
@@ -479,6 +487,12 @@
       "diamond": "2024-12-23 17:28:47 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "beetroot": "2024-12-23 18:03:55 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

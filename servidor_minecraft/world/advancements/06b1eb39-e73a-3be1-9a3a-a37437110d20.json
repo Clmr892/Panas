@@ -265,7 +265,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "scrubland": "2024-12-23 17:58:06 +0000",
       "mediterranean_forest": "2024-12-23 16:24:38 +0000",
+      "dune_beach": "2024-12-23 18:06:23 +0000",
       "lavender_field": "2024-12-23 16:36:50 +0000"
     },
     "done": false
@@ -405,6 +407,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-12-23 17:58:52 +0000",
       "minecraft:zombie": "2024-12-23 16:40:34 +0000"
     },
     "done": false
@@ -436,7 +439,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-12-23 17:19:26 +0000",
-      "beetroot": "2024-12-23 17:34:58 +0000"
+      "beetroot": "2024-12-23 17:34:58 +0000",
+      "potato": "2024-12-23 18:00:27 +0000"
     },
     "done": false
   },
