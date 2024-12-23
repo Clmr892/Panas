@@ -303,6 +303,7 @@
     "criteria": {
       "scrubland": "2024-12-23 16:42:27 +0000",
       "mediterranean_forest": "2024-12-20 20:20:47 +0000",
+      "dune_beach": "2024-12-23 17:10:40 +0000",
       "lavender_field": "2024-12-23 16:43:29 +0000"
     },
     "done": false
@@ -406,6 +407,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-23 17:15:21 +0000",
       "minecraft:skeleton": "2024-12-23 16:51:20 +0000",
       "minecraft:zombie": "2024-12-23 16:40:13 +0000"
     },
