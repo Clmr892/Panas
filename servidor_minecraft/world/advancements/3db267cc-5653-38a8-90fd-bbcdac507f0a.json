@@ -552,9 +552,17 @@
     "criteria": {
       "pollinated_pillar": "2024-12-23 19:31:14 +0000",
       "sugar_water_floor": "2024-12-23 19:32:34 +0000",
+      "hive_pillar": "2024-12-23 19:49:39 +0000",
+      "hive_wall": "2024-12-23 19:47:54 +0000",
       "pollinated_fields": "2024-12-23 19:31:17 +0000"
     },
     "done": false
+  },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2024-12-23 19:55:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
