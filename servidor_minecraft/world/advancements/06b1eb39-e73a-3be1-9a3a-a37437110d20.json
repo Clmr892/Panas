@@ -528,6 +528,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-23 20:36:09 +0000"
+    },
+    "done": false
+  },
   "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
     "criteria": {
       "teleport_out_of_bumblezone": "2024-12-23 19:55:04 +0000"
