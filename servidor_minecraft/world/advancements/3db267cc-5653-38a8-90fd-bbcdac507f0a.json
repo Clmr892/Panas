@@ -558,6 +558,12 @@
     },
     "done": false
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-12-23 20:44:23 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
     "criteria": {
       "teleport_out_of_bumblezone": "2024-12-23 19:55:50 +0000"
