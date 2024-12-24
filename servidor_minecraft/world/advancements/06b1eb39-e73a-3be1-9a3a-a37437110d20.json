@@ -753,6 +753,12 @@
     },
     "done": true
   },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-12-24 15:22:57 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2024-12-24 13:57:09 +0000"
