@@ -18192,3 +18192,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Dec2024 00:50:19.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO left the game
 [24Dec2024 00:50:22.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 00:50:22.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 00:55:22.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 00:55:22.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 00:58:59.718] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[24Dec2024 00:59:00.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 moved too quickly! -5.935842997507052,-1.6764708761442697,-7.987741766975091
+[24Dec2024 00:59:00.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
+[24Dec2024 00:59:03.058] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[24Dec2024 00:59:03.474] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[24Dec2024 00:59:06.879] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[24Dec2024 00:59:11.785] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft_121_update:coridor
+[24Dec2024 00:59:47.707] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[24Dec2024 01:00:24.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:00:24.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 01:01:16.382] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[24Dec2024 01:01:17.550] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[24Dec2024 01:01:21.698] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[24Dec2024 01:01:22.690] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[24Dec2024 01:01:22.727] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[24Dec2024 01:01:22.732] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[24Dec2024 01:01:28.021] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
+[24Dec2024 01:01:31.547] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_2
+[24Dec2024 01:02:06.279] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_1

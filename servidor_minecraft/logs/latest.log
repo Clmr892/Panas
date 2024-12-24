@@ -6868,3 +6868,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Dec2024 00:50:17.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> chao
 [24Dec2024 00:50:19.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asierito01OwO lost connection: Disconnected
 [24Dec2024 00:50:19.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO left the game
+[24Dec2024 00:59:00.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 moved too quickly! -5.935842997507052,-1.6764708761442697,-7.987741766975091
+[24Dec2024 00:59:00.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
