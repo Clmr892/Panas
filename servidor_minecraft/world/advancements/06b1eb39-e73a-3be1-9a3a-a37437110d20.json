@@ -268,6 +268,7 @@
       "scrubland": "2024-12-23 17:58:06 +0000",
       "mediterranean_forest": "2024-12-23 16:24:38 +0000",
       "dune_beach": "2024-12-23 18:06:23 +0000",
+      "pasture": "2024-12-23 22:18:58 +0000",
       "lavender_field": "2024-12-23 16:36:50 +0000"
     },
     "done": false
@@ -328,10 +329,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-23 23:34:49 +0000",
+      "minecraft:savanna_plateau": "2024-12-23 22:55:34 +0000",
       "minecraft:beach": "2024-12-23 16:26:42 +0000",
       "minecraft:river": "2024-12-23 16:43:48 +0000",
       "minecraft:ocean": "2024-12-23 19:27:37 +0000",
-      "minecraft:flower_forest": "2024-12-23 19:25:25 +0000"
+      "minecraft:old_growth_spruce_taiga": "2024-12-23 23:33:26 +0000",
+      "minecraft:flower_forest": "2024-12-23 19:25:25 +0000",
+      "minecraft:savanna": "2024-12-23 22:27:41 +0000",
+      "minecraft:plains": "2024-12-23 22:20:22 +0000"
     },
     "done": false
   },
@@ -368,8 +374,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-23 20:54:05 +0000",
+      "minecraft:skeleton": "2024-12-23 21:10:08 +0000",
       "minecraft:spider": "2024-12-23 17:58:52 +0000",
-      "minecraft:zombie": "2024-12-23 16:40:34 +0000"
+      "minecraft:husk": "2024-12-23 22:33:19 +0000",
+      "minecraft:zombie": "2024-12-23 16:40:34 +0000",
+      "minecraft:drowned": "2024-12-23 21:39:19 +0000"
     },
     "done": false
   },
@@ -381,7 +390,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2024-12-23 16:42:34 +0000"
+      "apple": "2024-12-23 16:42:34 +0000",
+      "golden_apple": "2024-12-23 22:28:55 +0000"
     },
     "done": false
   },
@@ -489,8 +499,12 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:rugged_badlands": "2024-12-23 23:35:02 +0000",
       "biomeswevegone:firecracker_chaparral": "2024-12-23 20:21:36 +0000",
-      "biomeswevegone:prairie": "2024-12-23 19:25:26 +0000"
+      "biomeswevegone:ironwood_gour": "2024-12-23 22:26:54 +0000",
+      "biomeswevegone:prairie": "2024-12-23 19:25:26 +0000",
+      "biomeswevegone:allium_shrubland": "2024-12-23 22:20:27 +0000",
+      "biomeswevegone:baobab_savanna": "2024-12-23 23:07:00 +0000"
     },
     "done": false
   },
@@ -533,9 +547,9 @@
     },
     "done": false
   },
-  "farmersdelight:main/place_cooking_pot": {
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
     "criteria": {
-      "cooking_pot": "2024-12-23 20:40:15 +0000"
+      "teleport_out_of_bumblezone": "2024-12-23 19:55:04 +0000"
     },
     "done": true
   },
@@ -545,21 +559,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/use_cutting_board": {
+  "farmersdelight:main/place_cooking_pot": {
     "criteria": {
-      "cutting_board": "2024-12-23 20:44:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-23 20:54:11 +0000"
-    },
-    "done": true
-  },
-  "call_of_yucutan:obtain_pepper_seeds": {
-    "criteria": {
-      "obtain_pepper_seeds_0": "2024-12-23 20:48:36 +0000"
+      "cooking_pot": "2024-12-23 20:40:15 +0000"
     },
     "done": true
   },
@@ -569,9 +571,177 @@
     },
     "done": true
   },
-  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+  "farmersdelight:main/use_cutting_board": {
     "criteria": {
-      "teleport_out_of_bumblezone": "2024-12-23 19:55:04 +0000"
+      "cutting_board": "2024-12-23 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_pepper_seeds": {
+    "criteria": {
+      "obtain_pepper_seeds_0": "2024-12-23 20:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-23 20:54:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "interact": "2024-12-23 20:57:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-12-23 21:41:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-23 21:53:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-23 22:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-23 22:03:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-23 22:04:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-23 22:09:37 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2024-12-23 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
+    "criteria": {
+      "abondoned_prairie_house": "2024-12-23 22:22:05 +0000"
+    },
+    "done": false
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-23 22:25:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-23 22:28:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2024-12-23 22:28:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-23 22:58:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-23 22:58:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-23 22:58:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-23 23:01:05 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-23 23:01:05 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-23 23:01:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-23 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-23 23:10:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2024-12-23 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2024-12-23 23:33:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/inside_quicksand": {
+    "criteria": {
+      "inside_quicksand": "2024-12-23 23:35:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2024-12-23 23:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-23 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2024-12-24 00:24:20 +0000"
     },
     "done": true
   },
