@@ -381,6 +381,7 @@
       "minecraft:vindicator": "2024-12-24 14:28:02 +0000",
       "minecraft:spider": "2024-12-23 17:58:52 +0000",
       "minecraft:creeper": "2024-12-24 14:26:09 +0000",
+      "quark:forgotten": "2024-12-24 15:39:02 +0000",
       "minecraft:husk": "2024-12-23 22:33:19 +0000",
       "minecraft:zombie": "2024-12-23 16:40:34 +0000",
       "minecraft:drowned": "2024-12-23 21:39:19 +0000"
@@ -780,6 +781,12 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2024-12-24 15:17:39 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-24 15:39:03 +0000"
     },
     "done": true
   },
