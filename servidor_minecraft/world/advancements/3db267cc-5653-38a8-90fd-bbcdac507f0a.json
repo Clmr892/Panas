@@ -301,6 +301,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2024-12-24 14:50:31 +0000",
+      "shrubland": "2024-12-24 14:49:04 +0000",
       "scrubland": "2024-12-23 16:42:27 +0000",
       "orchard": "2024-12-24 14:25:38 +0000",
       "lavender_forest": "2024-12-24 14:37:34 +0000",
