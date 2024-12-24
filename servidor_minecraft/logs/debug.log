@@ -18022,3 +18022,62 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Dec2024 14:23:57.728] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
 [24Dec2024 14:23:57.728] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
 [24Dec2024 14:23:57.729] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall
+[24Dec2024 14:24:31.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Asierito01OwO to Calamar892]
+[24Dec2024 14:24:49.454] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[24Dec2024 14:24:49.477] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [3db267cc-5653-38a8-90fd-bbcdac507f0a]
+[24Dec2024 14:25:03.933] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:03.944] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:03.993] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:05.689] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:05.692] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2245, y=50, z=-2535}
+[24Dec2024 14:25:06.082] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:06.085] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2245, y=50, z=-2535}
+[24Dec2024 14:25:06.086] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2222, y=43, z=-2506}
+[24Dec2024 14:25:06.097] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:06.102] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2245, y=50, z=-2535}
+[24Dec2024 14:25:06.104] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2228, y=43, z=-2526}
+[24Dec2024 14:25:06.104] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2222, y=43, z=-2519}
+[24Dec2024 14:25:06.104] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2215, y=43, z=-2519}
+[24Dec2024 14:25:09.768] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:09.772] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2245, y=50, z=-2535}
+[24Dec2024 14:25:09.855] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:09.869] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2240, y=57, z=-2515}
+[24Dec2024 14:25:09.869] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2245, y=50, z=-2535}
+[24Dec2024 14:25:09.876] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2228, y=43, z=-2526}
+[24Dec2024 14:25:09.877] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2222, y=43, z=-2519}
+[24Dec2024 14:25:09.877] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2235, y=43, z=-2513}
+[24Dec2024 14:25:09.920] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:09.923] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2245, y=50, z=-2535}
+[24Dec2024 14:25:09.926] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2222, y=43, z=-2506}
+[24Dec2024 14:25:11.924] [Worker-Main-2/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ancient/ancient_tree_trunk2 is being run through DFU (hash 40b612f2bf4f14a86c15499a6c988ecfc1e5543da600f085d97403f6f17a83f6), this will cause launch time delays
+[24Dec2024 14:25:12.148] [Worker-Main-2/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ancient/ancient_tree_canopy2 is being run through DFU (hash 87f189186b6731bfb41d364298e413665f1e333b6babb52c48c3698d5e41c97e), this will cause launch time delays
+[24Dec2024 14:25:12.461] [Worker-Main-1/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ancient/ancient_tree_trunk3 is being run through DFU (hash e6eada726cf2ac18ce74d9f3bdc29df0d80d55a69fc2dcb5fea3b4b08cd8f88d), this will cause launch time delays
+[24Dec2024 14:25:12.656] [Worker-Main-1/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ancient/ancient_tree_canopy3 is being run through DFU (hash b938a7336135963ca7a62e82acd9af55eaf57692f3ec392e08366aa69f975cc7), this will cause launch time delays
+[24Dec2024 14:25:12.665] [Worker-Main-1/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/woodlands/woodlands_tree_trunk1 is being run through DFU (hash 350e1371ce63e9ca35727f5899710beacf898700d85e97188bc0ebc16b8e98fb), this will cause launch time delays
+[24Dec2024 14:25:12.671] [Worker-Main-1/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/woodlands/woodlands_tree_canopy1 is being run through DFU (hash 689706d65e24fd17d4febef86ad648b2324c5b5b0fdfe4944333f0e49cbce186), this will cause launch time delays
+[24Dec2024 14:25:16.442] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:16.450] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2245, y=50, z=-2535}
+[24Dec2024 14:25:16.684] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:16.688] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2245, y=50, z=-2535}
+[24Dec2024 14:25:16.721] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2208, y=62, z=-2512}
+[24Dec2024 14:25:16.725] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2245, y=50, z=-2535}
+[24Dec2024 14:25:18.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por pou
+[24Dec2024 14:25:24.203] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[24Dec2024 14:25:25.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 14:25:25.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 14:25:38.841] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[24Dec2024 14:25:39.354] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [3db267cc-5653-38a8-90fd-bbcdac507f0a]
+[24Dec2024 14:25:42.359] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[24Dec2024 14:25:44.323] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_yellow_boreal_trunk is being run through DFU (hash 573a03d353fe2b1f01b122001a5ee1feec1fa36f67608af5f5f67c37d090cc51), this will cause launch time delays
+[24Dec2024 14:25:44.325] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_yellow_boreal_canopy is being run through DFU (hash 226262ff485b6e18d96a93991bf63f273c8d15cc5fc262c5a5b383643f68ec24), this will cause launch time delays
+[24Dec2024 14:25:44.381] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_boreal_trunk1 is being run through DFU (hash e9160aaaa4c79ae117205b259e12702c1be6ea308caf2632160f02454c37ee0f), this will cause launch time delays
+[24Dec2024 14:25:44.381] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_boreal_canopy1 is being run through DFU (hash 2a20b24fa7145aa6f495f709de9f5be60548a4022b7bc6cb8602258d15dc16c9), this will cause launch time delays
+[24Dec2024 14:27:21.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> son hadas asier dejalas
+[24Dec2024 14:28:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> casi era
+[24Dec2024 14:28:36.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo tendremos que traducir o algo
+[24Dec2024 14:29:01.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay que traducirlo con algo asier
+[24Dec2024 14:29:07.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has made the advancement [Into Fire]
+[24Dec2024 14:29:14.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> se viene asier
+[24Dec2024 14:30:25.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 14:30:25.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 14:33:40.438] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker

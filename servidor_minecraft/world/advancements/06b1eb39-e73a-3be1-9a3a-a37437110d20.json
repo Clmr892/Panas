@@ -266,6 +266,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2024-12-23 17:58:06 +0000",
+      "orchard": "2024-12-24 14:25:48 +0000",
       "mediterranean_forest": "2024-12-23 16:24:38 +0000",
       "dune_beach": "2024-12-23 18:06:23 +0000",
       "pasture": "2024-12-23 22:18:58 +0000",
@@ -333,6 +334,7 @@
       "minecraft:savanna_plateau": "2024-12-23 22:55:34 +0000",
       "minecraft:beach": "2024-12-23 16:26:42 +0000",
       "minecraft:river": "2024-12-23 16:43:48 +0000",
+      "minecraft:stony_shore": "2024-12-24 14:25:06 +0000",
       "minecraft:dripstone_caves": "2024-12-24 14:19:22 +0000",
       "minecraft:ocean": "2024-12-23 19:27:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-23 23:33:26 +0000",
@@ -376,7 +378,9 @@
     "criteria": {
       "minecraft:pillager": "2024-12-23 20:54:05 +0000",
       "minecraft:skeleton": "2024-12-23 21:10:08 +0000",
+      "minecraft:vindicator": "2024-12-24 14:28:02 +0000",
       "minecraft:spider": "2024-12-23 17:58:52 +0000",
+      "minecraft:creeper": "2024-12-24 14:26:09 +0000",
       "minecraft:husk": "2024-12-23 22:33:19 +0000",
       "minecraft:zombie": "2024-12-23 16:40:34 +0000",
       "minecraft:drowned": "2024-12-23 21:39:19 +0000"
@@ -502,6 +506,8 @@
     "criteria": {
       "biomeswevegone:araucaria_savanna": "2024-12-24 14:10:00 +0000",
       "biomeswevegone:rugged_badlands": "2024-12-23 23:35:02 +0000",
+      "biomeswevegone:forgotten_forest": "2024-12-24 14:25:35 +0000",
+      "biomeswevegone:red_rock_valley": "2024-12-24 14:23:15 +0000",
       "biomeswevegone:firecracker_chaparral": "2024-12-23 20:21:36 +0000",
       "biomeswevegone:ironwood_gour": "2024-12-23 22:26:54 +0000",
       "biomeswevegone:prairie": "2024-12-23 19:25:26 +0000",
@@ -750,6 +756,12 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2024-12-24 13:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-24 14:29:07 +0000"
     },
     "done": true
   },
