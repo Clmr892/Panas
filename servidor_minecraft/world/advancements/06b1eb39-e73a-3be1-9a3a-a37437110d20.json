@@ -796,6 +796,12 @@
     },
     "done": true
   },
+  "quark:apply_color_rune": {
+    "criteria": {
+      "rune_rainbow": "2024-12-24 16:01:51 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2024-12-24 14:09:29 +0000"
