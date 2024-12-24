@@ -6925,3 +6925,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Dec2024 14:29:01.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay que traducirlo con algo asier
 [24Dec2024 14:29:07.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has made the advancement [Into Fire]
 [24Dec2024 14:29:14.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> se viene asier
+[24Dec2024 14:35:54.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Into Fire]
+[24Dec2024 14:40:06.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1910, y=85, z=-2298} BlockPos{x=-1913, y=87, z=-2298}
+[24Dec2024 14:40:06.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1910, y=85, z=-2298} BlockPos{x=-1913, y=87, z=-2298}
+[24Dec2024 14:40:06.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1912, y=86, z=-2298} BlockPos{x=-1911, y=84, z=-2298}
+[24Dec2024 14:40:06.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1913, y=86, z=-2298} BlockPos{x=-1911, y=84, z=-2298}
+[24Dec2024 14:40:07.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1912, y=86, z=-2298} BlockPos{x=-1914, y=86, z=-2298}
+[24Dec2024 14:40:07.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1912, y=87, z=-2298} BlockPos{x=-1913, y=87, z=-2298}
+[24Dec2024 14:40:07.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1912, y=87, z=-2298} BlockPos{x=-1913, y=87, z=-2298}
+[24Dec2024 14:43:58.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pou
+[24Dec2024 14:44:06.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Asierito01OwO to Calamar892]
